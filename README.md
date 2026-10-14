@@ -31,7 +31,7 @@ Requires **Odoo 19 Enterprise** with the Rental app.
 
 ## Author
 
-Built by **Kosai Alhafez**, business systems developer and accountant.
+Built by **Kosai Alhafez**, business systems developer.
 [blasedoesit.com](https://blasedoesit.com) · kosai@blasedoesit.com
 
 ## License
